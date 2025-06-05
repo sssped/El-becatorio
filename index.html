@@ -40,6 +40,32 @@
             padding-bottom: 20px;
             margin-bottom: 20px;
         }
+        .flag-menu {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        .flag-menu a {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: #333;
+            border: 1px solid #ccc;
+            padding: 5px 10px;
+            margin: 5px;
+            border-radius: 4px;
+            background-color: #f9f9f9;
+            transition: background-color 0.3s;
+        }
+        .flag-menu a:hover {
+            background-color: #e6e6e6;
+        }
+        .flag-menu img {
+            width: 40px;
+            height: 30px;
+            margin-right: 8px;
+        }
         footer {
             text-align: center;
             padding: 20px 0;
@@ -61,6 +87,16 @@
     <div class="container">
         <section id="becas">
             <h2>Becas recientes</h2>
+            <div class="flag-menu">
+                <a href="#guatemala"><img src="flags/gt.svg" alt="Bandera de Guatemala">Guatemala</a>
+                <a href="#japon"><img src="flags/jp.svg" alt="Bandera de Japón">Japón</a>
+                <a href="#mexico"><img src="flags/mx.svg" alt="Bandera de México">México</a>
+                <a href="#tailandia"><img src="flags/th.svg" alt="Bandera de Tailandia">Tailandia</a>
+                <a href="#corea"><img src="flags/kr.svg" alt="Bandera de Corea">Corea</a>
+                <a href="#chile"><img src="flags/cl.svg" alt="Bandera de Chile">Chile</a>
+                <a href="#espana"><img src="flags/es.svg" alt="Bandera de España">España</a>
+                <a href="#colombia"><img src="flags/co.svg" alt="Bandera de Colombia">Colombia</a>
+            </div>
             <article class="post">
                 <h3>Beca de Estudio en el Extranjero</h3>
                 <p>Una excelente oportunidad para estudiar en el extranjero con todos los gastos cubiertos.</p>
@@ -69,6 +105,29 @@
                 <h3>Beca Nacional de Investigación</h3>
                 <p>Apoyo económico para estudiantes universitarios que deseen realizar investigaciones en Guatemala.</p>
             </article>
+            <h3 id="guatemala">Guatemala</h3>
+            <p>Próximamente encontrarás becas disponibles en Guatemala.</p>
+
+            <h3 id="japon">Japón</h3>
+            <p>Próximamente encontrarás becas disponibles en Japón.</p>
+
+            <h3 id="mexico">México</h3>
+            <p>Próximamente encontrarás becas disponibles en México.</p>
+
+            <h3 id="tailandia">Tailandia</h3>
+            <p>Próximamente encontrarás becas disponibles en Tailandia.</p>
+
+            <h3 id="corea">Corea</h3>
+            <p>Próximamente encontrarás becas disponibles en Corea.</p>
+
+            <h3 id="chile">Chile</h3>
+            <p>Próximamente encontrarás becas disponibles en Chile.</p>
+
+            <h3 id="espana">España</h3>
+            <p>Próximamente encontrarás becas disponibles en España.</p>
+
+            <h3 id="colombia">Colombia</h3>
+            <p>Próximamente encontrarás becas disponibles en Colombia.</p>
         </section>
         <section id="noticias">
             <h2>Noticias recientes</h2>
