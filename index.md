@@ -1,14 +1,13 @@
 ---
-layout: default
-title: "Inicio"
+title: Jekyll Serif Theme
+layout: home
+description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+intro_image: "images/illustrations/pointing.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
+show_call_box: true
 ---
 
-Bienvenido a **El Becatorio**. Usa el menú superior para navegar por las becas y noticias.
+# Serif - A Jekyll Business Theme.
 
-Este sitio reúne información actualizada sobre becas disponibles y consejos para quienes buscan oportunidades académicas. Aquí encontrarás detalles de programas nacionales e internacionales, requisitos y enlaces directos para aplicar.
-
-Para conocer más becas y noticias de educación en Guatemala, visita regularmente las secciones de **Becas** y **Noticias**.
-
-## Contacto
-
-Si deseas colaborar con "El Becatorio" o tienes alguna consulta, escríbenos a [info@becatorio.com](mailto:info@becatorio.com).
+Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
