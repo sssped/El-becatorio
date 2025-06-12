@@ -1,10 +1,6 @@
 url: "https://sssped.github.io"
 baseurl: "/El-becatorio"
-remote_theme: raviriley/agency-jekyll-theme
 
-# Needed for remote themes when building locally
-plugins:
-  - jekyll-remote-theme
 
 # Site settings
 title: El Becatorio
