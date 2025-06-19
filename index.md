@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: El becatorio
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Conseguir información acerca de becas en Guatemala nunca ha sido tan fácil. En el becatorio conseguirás todo lo que necesitas para arrancar un próspero futuro.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Todas las oportunidades en un solo lugar
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Conseguir información acerca de becas en Guatemala nunca ha sido tan fácil. En el becatorio conseguirás todo lo que necesitas para arrancar un próspero futuro.
