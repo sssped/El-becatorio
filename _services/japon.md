@@ -9,5 +9,6 @@ Programa MEXT financia estudios superiores con matrícula y estipendio.
 **Oportunidades:** El programa de becas MEXT del gobierno japonés es uno de los más prestigiosos. Permite a guatemaltecos estudiar licenciaturas, maestrías o doctorados en universidades japonesas, cubriendo matrícula, pasaje aéreo y un estipendio mensual.
 
 **Anécdota:** Luis, becario MEXT, recuerda: “Llegar a Tokio fue un choque cultural. Aprendí japonés desde cero y hoy trabajo en una empresa tecnológica japonesa. La beca cambió mi vida y mi visión del mundo”.
+**Más información:** Revisa las becas de la Universidad de Tokio [aquí](https://www.u-tokyo.ac.jp/en/prospective-students/scholarships.html).
 
 ![Campus en Japón](/images/becas/japon.svg)

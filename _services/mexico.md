@@ -9,5 +9,6 @@ AMEXCID ofrece becas de pregrado y posgrado con opción de movilidad.
 **Oportunidades:** El gobierno de México, a través de la AMEXCID, ofrece becas para guatemaltecos en programas de pregrado, posgrado y especializaciones. También existen acuerdos con universidades mexicanas para movilidad estudiantil.
 
 **Anécdota:** María, becaria en la UNAM, relata: “La beca me permitió conocer la riqueza cultural de México y hacer amigos de toda Latinoamérica. Hoy colaboro en proyectos binacionales de investigación”.
+**Más información:** Revisa la sección de becas de la UNAM [aquí](https://www.unam.mx/educacion/becas).
 
 ![Campus en México](/images/becas/mexico.svg)
