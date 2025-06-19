@@ -9,5 +9,6 @@ Programas KOICA y GKS financian desde pregrado hasta doctorado con curso de core
 **Oportunidades:** Corea del Sur ofrece dos programas de becas, el primero conocido como KOICA está dedicado a maestrías y doctorados en áreas políticas, tecnológicas y administrativas. Además, incluyen pasajes aéreos, matrícula, alojamiento, seguro y manutención mensual. El segundo es el programa GKS para pregrados y posgrados, cuenta con los mismos beneficios del programa KOICA más un curso de coreano.
 
 **Anécdota:** Yuri Ramirez cuenta que: “Corea del Sur es un país muy desarrollado, utilizando tecnología de punta, una cultura educada y reservada, ordenados para realizar las cosas y muy puntuales en sus quehaceres. Como experiencia académica, se utilizó tecnología para la elaboración de los exámenes DHE que son obligatorios para la evaluación de nuevas variedades vegetales y para su registro de protección de obtentores de variedades vegetales.”
+**Más información:** Consulta las becas de la Yonsei University [aquí](https://www.yonsei.ac.kr/en_sc/admission/scholarship.do).
 
 ![Campus en Corea del Sur](/images/becas/corea_del_sur.svg)
